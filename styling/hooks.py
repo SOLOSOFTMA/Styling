@@ -17,7 +17,7 @@ website_context = {
 # Includes in <head>
 # ------------------
 app_include_css = [
-    "/assets/styling/css/custom_style.css"
+    "/assets/styling/css/custom.css"
 ]
 # include js, css files in header of desk.html
 # app_include_css = "/assets/styling/css/styling.css"
