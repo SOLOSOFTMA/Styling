@@ -11,8 +11,8 @@ app_color = "grey"
 app_email = "bobzz.zone@gmail.com"
 app_license = "MIT"
 website_context = {
-	"favicon": 	"/assets/styling/images/inviplus.jpg",
-	"splash_image": "/assets/styling/images/inviplus.jpg"
+	"favicon": 	"/assets/styling/images/invi+.jpg",
+	"splash_image": "/assets/styling/images/invi+.jpg"
 }
 # Includes in <head>
 # ------------------
