@@ -10,10 +10,15 @@ app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "bobzz.zone@gmail.com"
 app_license = "MIT"
-
+website_context = {
+	"favicon": 	"/assets/styling/images/inviplus.jpg",
+	"splash_image": "/assets/styling/images/inviplus.jpg"
+}
 # Includes in <head>
 # ------------------
-
+app_include_css = [
+    "/assets/styling/css/custom.css",
+]
 # include js, css files in header of desk.html
 # app_include_css = "/assets/styling/css/styling.css"
 # app_include_js = "/assets/styling/js/styling.js"
