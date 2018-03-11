@@ -1,7 +1,17 @@
-body,#page-desktop{
-	background-color: #000080;
+#page-desktop{
+	background-color: #1c2250!important;
 }
 .hero-and-content{
-	background-color: #000080;
+	background-color: #1c2250!important;
 }
-.web-footer{display: none;}
+.web-footer{
+	background-color: #1c2250!important;
+	border:0!important;
+}
+.web-footer .footer-links{visibility: hidden;}
+.navbar-brand {padding:0px!important;padding-top:10px!important;}
+.erpnext-icon{
+width:100px!important;
+height:30px;
+}
+.dropdown-help{display:none!important;}

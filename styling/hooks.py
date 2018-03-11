@@ -11,18 +11,17 @@ app_color = "grey"
 app_email = "bobzz.zone@gmail.com"
 app_license = "MIT"
 website_context = {
-	"favicon": 	"/assets/styling/images/invi+.jpg",
-	"splash_image": "/assets/styling/images/invi+.jpg"
+	"favicon": 	"/assets/styling/images/invi+-icon.png",
+	"splash_image": "/assets/styling/images/invi+-web.png"
 }
 # Includes in <head>
 # ------------------
-app_include_css = [
-    "/assets/styling/css/custom.css"
-]
+app_include_css = "/assets/styling/css/custom.css"
+web_include_css = "/assets/styling/css/custom.css"
 # include js, css files in header of desk.html
 # app_include_css = "/assets/styling/css/styling.css"
 # app_include_js = "/assets/styling/js/styling.js"
-
+app_include_js = "assets/js/styling.min.js"
 # include js, css files in header of web template
 # web_include_css = "/assets/styling/css/styling.css"
 # web_include_js = "/assets/styling/js/styling.js"
