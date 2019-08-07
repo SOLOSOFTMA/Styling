@@ -1,17 +1,19 @@
-#page-desktop{
-	background-color: #1c2250!important;
+/*#page-desktop{
+	background-color: #D86551!important;
 }
 .hero-and-content{
-	background-color: #1c2250!important;
+	background-color: #D86551!important;
 }
 .web-footer{
-	background-color: #1c2250!important;
+	background-color: #D86551!important;
 	border:0!important;
-}
+}*/
 .web-footer .footer-links{visibility: hidden;}
 .navbar-brand {padding:0px!important;padding-top:10px!important;}
 .erpnext-icon{
-width:100px!important;
-height:30px;
+width:25px!important;
+height:25px;
+margin-right:10px;
 }
 .dropdown-help{display:none!important;}
+.form-footer p a {color:white!important;}
